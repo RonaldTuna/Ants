@@ -9,6 +9,7 @@ With Object Oriented Programming in mind, create the following simulation enviro
         Note that food is consumed if an ant shares the same coordinate as the food. Ants can share the same coordinate.
     Run 1000 simulations with 100 ants, each for 100 time steps. Report the mean and standard deviation of the total food eaten. Feel free to use any Python packages as needed.
     
+# Cereal
 
 ### Problem 2
 
